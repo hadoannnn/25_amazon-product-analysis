@@ -19,9 +19,7 @@ The model assigns a probability distribution to aesthetic scores (1–10), and t
 
 3. Video Presence: Video presence is recorded as 1 if a listing includes a video and 0 if it does not.
 
-To assess relationships, I then employ:
+To assess relationships, I then employ the following models to see the relationshipp between product presentation attributes and product ratings and counts:
 - Multiple Linear Regression
 - Polynomial Regression
 - Tree-based Model (XGBoost)
-
-These models provide insights into how presentation attributes influence product ratings and engagement.
