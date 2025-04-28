@@ -3,7 +3,7 @@ Welcome to my DA401 Capstone Project!
 
 This project aims to understand the relationship between product presentation attributes and product success on Amazon, focusing on the Amazon Fashion category. Specifically, it examines how verbal data (titles, descriptions, and features), non-verbal data (images), and video presence influence product ratings and review counts. 
 
-The dataset used in this study originates from [McAuley Lab](https://amazon-reviews-2023.github.io/main.html) and contains metadata from Amazon product listings across multiple categories. This dataset, collected in 2023, includes approximately 48.19 million products with a timespan from May 1996 to September 2023. Given the computational and time constraints of the project, a stratified sampling approach was employed, reducing the dataset to 6262 observations within the Amazon Fashion category. This is a highly competitive segment where product presentation plays a critical role in consumer decision-making. 
+The dataset used in this study originates from [McAuley Lab](https://amazon-reviews-2023.github.io/main.html) and contains metadata from Amazon product listings across multiple categories. This dataset, collected in 2023, includes approximately 48.19 million products with a timespan from May 1996 to September 2023. Given the computational and time constraints of the project, a stratified sampling approach was employed, reducing the dataset to 10,000 observations within the Clothing, Shoes, and Jewelry category. This is a highly competitive segment where product presentation plays a critical role in consumer decision-making. 
 
 
 ## Methodology Overview
